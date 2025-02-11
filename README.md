@@ -1,9 +1,9 @@
-# Multiverse TAIS Open Phil RFP
+# Multiverse TAIS Open Philanthropy RFP
 
 https://www.openphilanthropy.org/request-for-proposals-technical-ai-safety-research/
 
-- **EOIs:** for potential submissions
+- **EOIs/:** For submission drafts.
 
-- **Related Papers:** related published papers we may reference in our EOIs
+- **related-papers/:** Related papers we may reference in our EOIs.
 
-- **RFP Docs:** For official docs from Open Philanthropy
+- **rfp-docs/:** For official docs from Open Philanthropy.
