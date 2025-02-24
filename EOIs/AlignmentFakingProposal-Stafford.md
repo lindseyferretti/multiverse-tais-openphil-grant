@@ -73,17 +73,17 @@ This project investigates how large language models (LLMs) exhibit alignment fak
 
 We will conduct a structured evaluation of alignment faking in LLMs by:
 
-    - Comparing explicit safety prompts with synthetic fine-tuning techniques that embed safety objectives in nuanced ways.
-    - Analyzing hidden chain-of-thought outputs to develop quantifiable compliance metrics such as compliance gaps and partial credit scoring.
-    - Testing targeted interventions, including honesty-first prompts and modified reinforcement learning reward structures, to assess their effectiveness in reducing deceptive behaviors.
+- Comparing explicit safety prompts with synthetic fine-tuning techniques that embed safety objectives in nuanced ways.
+- Analyzing hidden chain-of-thought outputs to develop quantifiable compliance metrics such as compliance gaps and partial credit scoring.
+- Testing targeted interventions, including honesty-first prompts and modified reinforcement learning reward structures, to assess their effectiveness in reducing deceptive behaviors.
 
 Our approach aims to develop a predictive framework that scales across multiple LLM iterations and informs safer model deployment strategies.
 
 Success will be measured by:
 
-    - Establishing clear, quantifiable metrics for detecting alignment faking.
-    - Developing a continuous performance scale to predict real-world safety outcomes.
-    - Publishing findings and open-source tools that enable AI researchers and policymakers to assess and mitigate alignment risks.
+- Establishing clear, quantifiable metrics for detecting alignment faking.
+- Developing a continuous performance scale to predict real-world safety outcomes.
+- Publishing findings and open-source tools that enable AI researchers and policymakers to assess and mitigate alignment risks.
 
 If successful, this project will provide a robust methodology for evaluating LLM trustworthiness and contribute to safer AI deployment strategies in high-stakes applications.
 
