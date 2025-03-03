@@ -24,3 +24,5 @@ https://www.openphilanthropy.org/request-for-proposals-technical-ai-safety-resea
 3. Once you have a project idea, copy the [Expression of Interest](https://github.com/lindseyferretti/multiverse-tais-openphil-grant/blob/main/EOIs/EOI-template.md) template and fill it out. Create a PR or reach out to Lindsey to get your proposal in the repo.
 
 4. First round of submissions on 3/10. Final deadline for Open Phil is April 15.
+
+![rfp-docs/TAIS-RFP.png](https://github.com/lindseyferretti/multiverse-tais-openphil-grant/blob/2174e77142fc1bf4ce3f15846caf51c4d92fbfbe/rfp-docs/TAIS-RFP.png)
