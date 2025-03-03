@@ -17,7 +17,7 @@ https://www.openphilanthropy.org/request-for-proposals-technical-ai-safety-resea
 
 ## TLDR of Next Steps
 
-1. Take a look at the research areas (https://www.openphilanthropy.org/tais-rfp-research-areas/).
+1. Take a look at the [research areas](https://www.openphilanthropy.org/tais-rfp-research-areas/).
 
 2. Dream up a cool research project you're excited about. Consider using [deep research](https://github.com/lindseyferretti/multiverse-tais-openphil-grant/blob/main/EOIs/deep-research-prompts.md) to sift through the latest papers.
 
